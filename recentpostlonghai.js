@@ -12,7 +12,7 @@ function recentpostlonghai(t){
 			l=n.media$thumbnail.url
 		}
 		catch(h){
-			s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),l=-1!=a&&-1!=b&&-1!=c&&""!=d?d:"https://dl.dropboxusercontent.com/u/82680438/blogjs/noimage.png"
+			s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),l=-1!=a&&-1!=b&&-1!=c&&""!=d?d:"https://whlonghai.github.io/blogjs/noimage.png"
 		}
 		
 		var w=n.published.$t,f=w.substring(2,4),p=w.substring(5,7),g=w.substring(8,10),tlh=w.substring(11,13),v=new Array;

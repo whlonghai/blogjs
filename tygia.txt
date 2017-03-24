@@ -1,0 +1,8 @@
+usdban,usdmua,teban,temua,giaban,giamua,
+22400,23200,3255,3265,me,me,3260,
+58c70,12,22000000,30,10,2.5,80000,1,
+83dd3,
+maytinhtan,ipadtan,dttan,dttan
+393b4,0f7ae,07af4,384c1,4805b,91353,
+dienthoai,maytinhhai,
+4630a,75cf2,336ea,ae489,ea2bf,

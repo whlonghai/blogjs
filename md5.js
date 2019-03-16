@@ -355,6 +355,8 @@ if (namsinh==""||namsinh.search("d")!=-1||namsinh.search("m")!=-1||namsinh.searc
 	  $("#part3").html("<br/>");
 	  $("#mod_bhyt_lichsu_msg").html("<br/>");;
   }
+
+khoitao();
  //md5-------------------------------------------------
  /*
  * JavaScript MD5

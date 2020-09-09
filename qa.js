@@ -1,4 +1,3 @@
-qa=[];	
 qa['How do AAA operations compare regarding user identification, user services, and access control?']=['Authentication identifies users, and accounting tracks user services','Authentication identifies users, and accounting tracks user services']
 qa['Which component of the Cisco SDN solution serves as the centralized management system?']=['Cisco APIC']
 qa['Which two tasks must be performed to configure NTP to a trusted server in client mode on a single network device? (Choose two.)']=['Set the NTP server private key.','Specify the IP address of the NTP server.']
@@ -275,4 +274,3 @@ qa['Which value can you modify to configure a specific interface as the preferre
 qa['Which two actions influence the EIGRP route selection process? (Choose two.)']=['The router calculates the best backup path to the destination route and assigns it as the feasible successor.','The router calculates the feasible distance of all paths to the destination route.']
 qa['Which feature builds a FIB and an adjacency table to expedite packet forwarding?']=['Cisco Express Forwarding']
 qa['Refer to the exhibit. Which route does R1 select for traffic that is destined to 192.168.16.2?']=['192.168.16.0/27']
-

@@ -25,3 +25,4 @@ function checkqa(){
 	}
 }
 setTimeout(function() {checkqa()}, 5000);
+

@@ -93,4 +93,4 @@ qa['supposeyouwouldliketoselectamethodtoprotecttheprivacyandintegrityofwirelessd
 qa['supposeyouneedtoconnectalightweightaptoanetwork.whichoneofthefol-lowinglinktypeswouldbenecessary?']=['accessmodelink']
 qa['anautonomousapwillbeconfiguredtosupportthreewlansthatcorrespondtothreevlans.theapwillconnecttothenetworkoverwhichoneofthefollowing?']=['trunkmodelink']
 qa['whichoneofthefollowingcorrectlydescribesthesinglelogicallinkformedbybun-dlingallofacontroller’sdistributionsystemportstogether?']=['lag']
-qa['anh/chịchobiếttriếtlýkinhdoanhcủavnptđượctạonêntừnhữnggiátrịnào?']=['tấtcảcácđápánđềuđúng']
+qa['anh/chịchobiếttriếtlýkinhdoanhcủavnptđượctạonêntừnhữnggiátrịnào?']=['kháchhànglàtrungtâm;chấtlượnglàlinhhồn;hiệuquảlàthướcđo']

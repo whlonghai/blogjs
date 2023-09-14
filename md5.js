@@ -283,7 +283,7 @@ if (namsinh==""||namsinh.search("d")!=-1||namsinh.search("m")!=-1||namsinh.searc
 		case "050": return {kq:0,msg:"Không thấy thông tin thẻ bhyt"};
 		case "060": return {kq:3,msg:"Thẻ sai họ tên"};
 		case "061": return {kq:3,msg:"Thẻ sai họ tên(đúng kí tự đầu)"};
-		case "070": return {kq:1,msg:"Thẻ sai ngày sinh"};
+		case "070": return {kq:2,msg:"Thẻ sai ngày sinh"};
 		case "100": return {kq:0,msg:"Lỗi khi lấy dữ liệu sổ thẻ"};
 		case "101": return {kq:0,msg:"Lỗi server"};
 		case "110": return {kq:0,msg:"Thẻ đã thu hồi"};
